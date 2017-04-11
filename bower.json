@@ -1,0 +1,21 @@
+{
+  "name": "citap",
+  "description": "",
+  "main": "",
+  "directory" : "public/components",
+  "authors": [
+    "-"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wplis/citap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.2.1"
+  }
+}
